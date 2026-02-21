@@ -1,0 +1,20 @@
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\bin\Debug\net8.0-windows\Creatures Creatures Creatures!.exe
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\bin\Debug\net8.0-windows\Creatures Creatures Creatures!.deps.json
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\bin\Debug\net8.0-windows\Creatures Creatures Creatures!.runtimeconfig.json
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\bin\Debug\net8.0-windows\Creatures Creatures Creatures!.dll
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\bin\Debug\net8.0-windows\Creatures Creatures Creatures!.pdb
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!_MarkupCompile.cache
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!_MarkupCompile.lref
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.g.resources
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.AssemblyInfoInputs.cache
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.AssemblyInfo.cs
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.csproj.CoreCompileInputs.cache
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.dll
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\refint\Creatures Creatures Creatures!.dll
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.pdb
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\Creatures Creatures Creatures!.genruntimeconfig.cache
+C:\Users\Siegwald\source\repos\Creatures Creatures Creatures!\Creatures Creatures Creatures!\obj\Debug\net8.0-windows\ref\Creatures Creatures Creatures!.dll
