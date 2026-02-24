@@ -1,12 +1,181 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\enemyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\enemyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\bossblob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\bossblob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|c:\\users\\kbsie\\documents\\github\\blob_blob_blob\\creatures creatures creatures!\\creatures creatures creatures!\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDFE696C-4EFC-4C7D-88A1-B1BB04CE0EDA}|Creatures Creatures Creatures!\\Creatures Creatures Creatures!.csproj|solutionrelative:creatures creatures creatures!\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\MainWindow.xaml",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T01:32:43.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T01:32:42.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blob.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Blob.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\Blob.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Blob.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\Blob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:05:11.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossBlob.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\BossBlob.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\BossBlob.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\BossBlob.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\BossBlob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:05:29.778Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Projectile.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\Projectile.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Projectile.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:10:44.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Utility.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\Utility.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Utility.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:57:21.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Character.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\Character.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Character.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:41:40.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Item.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\Item.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\Item.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:41:11.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyItem.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\EnemyItem.cs",
+              "RelativeDocumentMoniker": "Creatures Creatures Creatures!\\EnemyItem.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\blob_blob_blob\\Creatures Creatures Creatures!\\Creatures Creatures Creatures!\\EnemyItem.cs",
+              "RelativeToolTip": "Creatures Creatures Creatures!\\EnemyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:46:23.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

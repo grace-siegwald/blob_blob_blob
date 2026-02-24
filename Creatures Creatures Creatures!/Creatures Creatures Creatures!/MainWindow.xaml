@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Creatures_Creatures_Creatures_"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid Loaded="Grid_Loaded">
-        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="55,38,345,37">
-            <TextBlock x:Name="CreatureInfo" TextWrapping="Wrap" Text="TextBlock"/>
-        </ScrollViewer>
-        <TextBlock x:Name="CreatureAbilities" HorizontalAlignment="Left" Margin="519,0,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" Height="200" Width="250"/>
-        <Button x:Name="AbilitiesButton" Content="Use Abilities!" HorizontalAlignment="Left" Margin="553,336,0,0" VerticalAlignment="Top" Height="35" Width="152" Click="AbilitiesButton_Click"/>
+        Title="Blob Blob Blob" Height="550" Width="450">
+    <Grid Loaded="Grid_Loaded">                                                                               
+        <Canvas x:Name="GameCanvas" Background="AliceBlue" MouseLeftButtonDown="GameCanvas_Click"/>
+        <TextBlock x:Name="RoundCounter" HorizontalAlignment="Left" Margin="338,65,0,0" TextWrapping="Wrap" Text="Round 1" VerticalAlignment="Top" FontSize="20"/>
+        <TextBlock x:Name="HealthCounter" HorizontalAlignment="Left" Margin="356,110,0,0" TextWrapping="Wrap" Text="Health = 3" VerticalAlignment="Top"/>
+        <Button x:Name="StartButton" Content="Start Game!" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="98" Click="StartButton_Click"/>
     </Grid>
 </Window>
+    

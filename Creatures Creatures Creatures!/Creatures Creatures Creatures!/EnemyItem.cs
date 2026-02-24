@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Creatures_Creatures_Creatures_
 {
-    class Location : World
+    internal class EnemyItem : Item
     {
-
+        
     }
 }

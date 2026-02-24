@@ -15,7 +15,10 @@ namespace Creatures_Creatures_Creatures_
         }
 
         // EXAPLE of expression bodied method!
-        public static int GetRandomNumber(int max) => randomNumberGenerator.Next(max);
+        public static int GetRandomNumber(int max)
+        {
+            return randomNumberGenerator.Next(max);
+        }
 
         //usage: Utility.GetRandomEnumValue<ElementalType>()
         public static T GetRandomEnumValue<T>() where T : Enum
