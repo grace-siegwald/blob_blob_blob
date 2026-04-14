@@ -54,7 +54,15 @@ namespace Creatures_Creatures_Creatures_
             /// Clicking the Start Button needs to:
             ///     Spawn Damsel instance in middle of canvas
             ///     Start the first round of blobs
-            ///     Hide itself
+            ///     Hide itself 
+            
+            StartButton.Visibility = Visibility.Collapsed;
+            centerX = GameCanvas.ActualWidth / 2;
+            centerY = GameCanvas.ActualHeight / 2;
+
+            //Create character on screen
+            //Start the round / Game timer
+
         }
         private void GameCanvas_Click(object sender, MouseButtonEventArgs e)
         {

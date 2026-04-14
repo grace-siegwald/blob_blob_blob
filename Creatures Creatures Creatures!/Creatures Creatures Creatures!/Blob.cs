@@ -57,5 +57,18 @@ namespace Creatures_Creatures_Creatures_
                 yPos += (directionY / distance) * Speed;
             }
         }
+
+
+        // This is for the blobs to check how far they are from stuff! Most importantly, how far they are from the center damsel (and maybe if the players click hit a blob?)
+        // In my brain I could use this to calculate a kinda "Hit Box" for the blob: If attack's distance to (blob location) <= 10, it would have a bigger hitbox then =2 or something
+        public double DistanceTo(double targetX, double targetY)
+        {
+            double dx = targetX - xPos;
+            double dy = targetY - yPos;
+            
+            // Claude helped me with the math equation, its taking the square root of something or other im not really sure.... 
+            // Somehow it is returning the distance to the blob... !
+            return Math.Sqrt(dx * dx + dy * dy);
+        }
     }
 }
