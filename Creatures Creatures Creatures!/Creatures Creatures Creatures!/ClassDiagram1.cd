@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Creatures_Creatures_Creatures_.Blob">
+    <Position X="1" Y="5.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAABAAABAAAAAIAAAAAAAQAAAAA=</HashCode>
+      <FileName>Blob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.BossBlob">
+    <Position X="1" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>BossBlob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.Character">
+    <Position X="6" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.EnemyItem">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.Item">
+    <Position X="8.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.Projectile">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAQAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.Utility">
+    <Position X="7" Y="7.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creatures_Creatures_Creatures_.MainWindow">
+    <Position X="1" Y="1.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAgAAAIAQhiAAAIAAAAAACAAAAEAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
